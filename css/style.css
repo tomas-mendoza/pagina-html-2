@@ -1,0 +1,29 @@
+img {
+  width: 250px;
+  height: 250px;
+}
+
+aside {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100px;
+  height: 100vh;
+}
+
+header {
+  margin-left: 100px;
+}
+
+main {
+  margin-left: 100px;
+}
+
+footer {
+  margin-left: 100px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: calc(100vw - 100px);
+  text-align: center;
+}
